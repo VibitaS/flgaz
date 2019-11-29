@@ -38,7 +38,14 @@ Le service est hébergé sur [pythonanywhere](https://eu.pythonanywhere.com/)
 
 ## Ce que fait le projet
 
-C
+/ : Racine
+  |_ /gaz : formulaire d'entrée avec pseudo & message
+  |_ /timeline : affichage des messages insérés
+          |_ /timeline/[nom de l'utilisateur] : affichage des messages d'un utlisateur précis
+
+###### Parties en cours
+- Base de données : mis en place en utilsant [SQLAlchemy](https://docs.sqlalchemy.org/en/13/dialects/mysql.html)
+- Limiter les doublons de message
 
 ## License
 
