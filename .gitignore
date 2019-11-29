@@ -3,3 +3,7 @@ __pycache__/
 /env
 
 gazouilles.csv
+
+.DS_Store
+
+get-pip.py
