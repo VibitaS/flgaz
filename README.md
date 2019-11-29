@@ -41,7 +41,7 @@ Le service est hébergé sur [pythonanywhere](https://eu.pythonanywhere.com/)
 / : Racine <br />
 &nbsp;&nbsp;|_ /gaz : formulaire d'entrée avec pseudo & message<br />
 &nbsp;&nbsp;|_ /timeline : affichage des messages insérés<br />
-&nbsp;&nbsp;&nbsp;&nbsp;|_ /timeline/[nom de l'utilisateur] : affichage des messages d'un utlisateur précis
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|_ /timeline/[nom de l'utilisateur] : affichage des messages d'un utlisateur précis
 
 ###### Parties en cours
 - Base de données : mis en place en utilsant [SQLAlchemy](https://docs.sqlalchemy.org/en/13/dialects/mysql.html)
