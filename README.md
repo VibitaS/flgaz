@@ -38,9 +38,9 @@ Le service est hébergé sur [pythonanywhere](https://eu.pythonanywhere.com/)
 
 ## Ce que fait le projet
 
-/ : Racine
-  |_ /gaz : formulaire d'entrée avec pseudo & message
-  |_ /timeline : affichage des messages insérés
+/ : Racine <br />
+  |_ /gaz : formulaire d'entrée avec pseudo & message<br />
+  |_ /timeline : affichage des messages insérés<br />
           |_ /timeline/[nom de l'utilisateur] : affichage des messages d'un utlisateur précis
 
 ###### Parties en cours
