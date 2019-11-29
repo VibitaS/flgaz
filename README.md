@@ -34,7 +34,7 @@ pip install sqlalchemy
 
 ## Hébergement
 
-Le service est hébergé sur pythonanywhere [https://eu.pythonanywhere.com/]
+Le service est hébergé sur [pythonanywhere](https://eu.pythonanywhere.com/)
 
 ## Ce que fait le projet
 
@@ -42,4 +42,4 @@ C
 
 ## License
 
-MIT [https://choosealicense.com/licenses/mit/]
+[MIT](https://choosealicense.com/licenses/mit/)
